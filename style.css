@@ -1,4 +1,7 @@
 /* style.css */
+body {
+  background-color: lightyellow;
+}
 
 body {
   font-family: Arial, sans-serif;
